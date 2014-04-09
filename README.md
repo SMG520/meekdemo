@@ -2,7 +2,7 @@
 
 ---
 
-* **本文设计工具下载/项目说明，请移步：**：[作者博客文章](http://www.youmeek.com/intellij-idea-part-xvi-ssh-maven-git-mopaas/ "个人博客文章")
+* **本文涉及各类工具组件下载/项目说明，请移步：**：[作者博客文章](http://www.youmeek.com/intellij-idea-part-xvi-ssh-maven-git-mopaas/ "个人博客文章")
 
 ---
 
